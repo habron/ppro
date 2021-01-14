@@ -1,0 +1,19 @@
+.sidebar-menu>.active>a {
+    color: #3c8dcb !important;
+    background-color: white !important;
+    font-weight: bold !important;
+}
+
+.sidebar-menu>li:hover>a {
+    color: #1d3e5b !important;
+    background-color: white !important;
+}
+
+.sidebar-menu>li.header {
+    color: #6f6c6e !important;
+    background: white !important;
+}
+
+.red {
+    color: red;
+}
